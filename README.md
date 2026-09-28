@@ -6,3 +6,4 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/oyomin/oyomin/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
+https://oyomin.github.io/how/
